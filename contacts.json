@@ -1,0 +1,20 @@
+[
+    {
+        "contact_id": "C001",
+        "name": "Rahul",
+        "phone": "9800776655",
+        "email": "rahul@gmail.com",
+        "group": "Family",
+        "created_at": "2026-08-20T18:15:23",
+        "updated_at": "2026-08-20T18:15:23"
+    },
+    {
+        "contact_id": "C002",
+        "name": "Shaikh",
+        "phone": "7788990066",
+        "email": "shaikh@gmail.com",
+        "group": "Teacher",
+        "created_at": "2026-08-20T18:16:02",
+        "updated_at": "2026-08-20T18:16:02"
+    }
+]
